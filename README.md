@@ -15,7 +15,7 @@ Smart&Green is smart apartment system. This system has two software parts. First
 
 ## Smartphone Application
 Smart&Green application is designed to control smart housewares and monitor power consumption. GUI is designed userfriendly and simple.
-Apartment system's microcontroller creates a web server from static local ip address. Communication between microcontroller and app is provided with open source Okhttp library. 
+Apartment system's microcontroller creates a web server from static local ip address. Communication between microcontroller and app is provided with open source Okhttp library. [Click here](https://github.com/bilalguvenc/SmartGreen-AndroidApp/raw/master/app/build/outputs/apk/debug/SmartnGreen.apk "Download APK file") to download apk file.
 ![](https://raw.githubusercontent.com/bilalguvenc/SmartGreen-AndroidApp/master/project-images/app.png)
 
 ## Daily Cycle
