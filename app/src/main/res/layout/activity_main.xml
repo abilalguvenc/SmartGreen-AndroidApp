@@ -119,7 +119,7 @@
                     android:background="@drawable/radius"
                     android:paddingLeft="10dp"
                     android:paddingTop="5dp"
-                    android:text="Daire 1"
+                    android:text="Apartment 1"
                     android:textColor="#eee"
                     android:textSize="25dp"
                     android:textStyle="bold" />
@@ -132,7 +132,7 @@
                     android:background="@drawable/radius"
                     android:paddingLeft="10dp"
                     android:paddingTop="5dp"
-                    android:text="Daire 2"
+                    android:text="Apartment 2"
                     android:textColor="#eee"
                     android:textSize="25dp"
                     android:textStyle="bold" />
@@ -145,7 +145,7 @@
                     android:background="@drawable/rad2"
                     android:paddingLeft="10dp"
                     android:paddingTop="5dp"
-                    android:text="Faturalar"
+                    android:text="Invoices"
                     android:textColor="#1C2833"
                     android:textSize="30dp"
                     android:textStyle="bold" />
@@ -286,7 +286,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="8dp"
-                    android:text="Daire 1"
+                    android:text="Apartment 1"
                     android:textColor="#273746"
                     android:textSize="25dp"
                     android:textStyle="bold" />
@@ -304,7 +304,7 @@
                         <TextView
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
-                            android:text="Şebeke Güç"
+                            android:text="Mains Power"
                             android:textColor="#273746"
                             android:textSize="20dp" />
 
@@ -324,7 +324,7 @@
                         <TextView
                             android:layout_width="180dp"
                             android:layout_height="wrap_content"
-                            android:text="Alternatif Güç"
+                            android:text="Alternative Power"
                             android:textColor="#273746"
                             android:textSize="20dp" />
 
@@ -344,7 +344,7 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="Toplam Güç"
+                            android:text="Total Power"
                             android:textColor="#273746"
                             android:textSize="20dp" />
 
@@ -364,7 +364,7 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="Tutar"
+                            android:text="Cost"
                             android:textColor="#273746"
                             android:textSize="20dp" />
 
@@ -384,7 +384,7 @@
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="8dp"
                     android:layout_marginTop="5dp"
-                    android:text="Daire 2"
+                    android:text="Apartment 2"
                     android:textColor="#273746"
                     android:textSize="25dp"
                     android:textStyle="bold" />
@@ -402,7 +402,7 @@
                         <TextView
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
-                            android:text="Şebeke Güç"
+                            android:text="Mains Power"
                             android:textColor="#273746"
                             android:textSize="20dp" />
 
@@ -422,7 +422,7 @@
                         <TextView
                             android:layout_width="180dp"
                             android:layout_height="wrap_content"
-                            android:text="Alternatif Güç"
+                            android:text="Alternative Power"
                             android:textColor="#273746"
                             android:textSize="20dp" />
 
@@ -442,7 +442,7 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="Toplam Güç"
+                            android:text="Total Power"
                             android:textColor="#273746"
                             android:textSize="20dp" />
 
@@ -462,7 +462,7 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="Tutar"
+                            android:text="Cost"
                             android:textColor="#273746"
                             android:textSize="20dp" />
 

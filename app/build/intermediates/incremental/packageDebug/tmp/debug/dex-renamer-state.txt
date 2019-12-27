@@ -1,4 +1,4 @@
-#Fri Dec 27 09:17:24 EET 2019
+#Fri Dec 27 22:36:31 EET 2019
 base.0=C\:\\Users\\bil\\Desktop\\Okul\\4\\Smart&Green\\SmartGreen-App\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
